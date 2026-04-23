@@ -7,7 +7,7 @@ Spec-Driven Development toolkit for building, deploying, and operating Digividua
 
 ## What is SDD?
 
-Spec-Driven Development treats the specification as the source of truth. The agent (Codex, Claude Code or equivalent) receives structured, high-quality context and builds to it. **You act as architect**: design, supervise, review, accept or request changes. You do not tell the agent how to do its job.
+Spec-Driven Development treats the specification as the source of truth. The agent (Codex, Claude Code or equivalent) receives structured, high-quality context and builds to it. **You act as architect**: design, supervise, review, accept or request changes. **You do not tell the agent how to do its job**.
 
 **Key principle:** Give the agent context it doesn't have. Let it make low-level decisions.
 
